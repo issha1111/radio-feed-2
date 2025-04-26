@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>霜降り明星のだましうち</title>
+<link>https://issha1111.github.io/radio-feed-2/podcast2.xml</link>
+<description>霜降り明星のだましうち アーカイブ</description>
+<language>ja</language>
+<itunes:image href="https://issha1111.github.io/radio-feed-2/Fl4vooMagAAerYm.jpg-large.jpeg" />
+<item>
+<title>Ep.001 霜降り明星のだましうち</title>
+<enclosure url="https://issha1111.github.io/damashiuchi-001-015/Ep.001%20霜降り明星のだましうち%20170723.mp3" type="audio/mpeg"/>
+<guid>https://issha1111.github.io/damashiuchi-001-015/Ep.001%20霜降り明星のだましうち%20170723.mp3</guid>
+<pubDate>Sun, 23 Jul 2017 00:00:00 +0900</pubDate>
+<itunes:summary>霜降り明星のだましうち アーカイブ</itunes:summary>
+</item>
+</channel>
+</rss>

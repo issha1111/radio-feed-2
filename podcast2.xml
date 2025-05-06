@@ -13,6 +13,10 @@
 <link>https://issha1111.github.io/radio-feed-2/podcast2.xml</link>
 <description>霜降り明星のだましうち アーカイブ 2017年から2025年分</description>
 <itunes:author>Issha</itunes:author>
+  <itunes:owner>
+  <itunes:name>Issha</itunes:name>
+  <itunes:email>issha730@gmail.com</itunes:email>
+</itunes:owner>
 <language>ja</language>
 <itunes:image href="https://issha1111.github.io/radio-feed-2/Fl4vooMagAAerYm.jpg-large.jpeg" />
 

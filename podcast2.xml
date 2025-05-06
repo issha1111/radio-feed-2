@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:link href="https://issha1111.github.io/radio-feed-2/podcast2.xml" rel="self" type="application/rss+xml" />
+<itunes:explicit>no</itunes:explicit>
 <channel>
+    <itunes:category text="Comedy" />
 <title>霜降り明星のだましうち</title>
 <link>https://issha1111.github.io/radio-feed-2/podcast2.xml</link>
-<description>霜降り明星のだましうち アーカイブ</description>
+<description>霜降り明星のだましうち アーカイブ 2017年から2025年分</description>
+    <itunes:author>Issha</itunes:author>
 <language>ja</language>
 <itunes:image href="https://issha1111.github.io/radio-feed-2/Fl4vooMagAAerYm.jpg-large.jpeg" />
 
